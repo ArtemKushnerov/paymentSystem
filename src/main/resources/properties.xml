@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paysysprop>
+    <database>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://localhost:3306/Payment_System</url>
+        <user>root</user>
+        <password>1234</password>
+        <maxconnections>20</maxconnections>
+        <initconnections>5</initconnections>
+    </database>
+</paysysprop>    
